@@ -1,2 +1,5 @@
-# python-data-pipeline
-Python data pipeline project demonstrating modular code, data processing, and error handling.
+# Python Data Pipeline
+
+A simple Python data pipeline project demonstrating **modular code design**, **data processing**, and **basic error handling**.
+
+## 📂 Project Structure
